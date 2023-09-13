@@ -2,4 +2,4 @@
 Projeto pratico UpInside Treinamentos, HTML Estruturado 
 
 Link the projects
-https://josue-stack.github.io/html5-css3EssentialsUpInside/
+https://JosueCosta2023.github.io/html5-css3EssentialsUpInside/
